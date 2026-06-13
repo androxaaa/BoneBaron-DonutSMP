@@ -22,8 +22,8 @@
 Clone repository:
 
 ```bash
-git clone https://github.com/YOURNAME/BoneBaron.git
-cd BoneBaron
+git clone https://github.com/androxaaa/BoneBaron-DonutSMP
+cd BoneBaron-DonutSMP
 ```
 
 Install dependencies:
@@ -131,7 +131,7 @@ CYCLE_MS=300000
 MIN_FREE_SLOTS=2
 
 # Economy
-PAYOUT_TO=androxa
+PAYOUT_TO=[Main IGN]
 MAX_BALANCE=15000
 ```
 
@@ -179,7 +179,7 @@ When enabled:
 Whitelist yourself:
 
 ```txt
-!whitelist add androxa
+!whitelist add [IGN]
 ```
 
 Enable stealth:
@@ -209,7 +209,7 @@ Whitelisted players never trigger stealth protection.
 Example:
 
 ```txt
-!whitelist add androxa
+!whitelist add YourName
 !whitelist add FriendName
 ```
 
@@ -238,6 +238,15 @@ Remove a player:
 
 ---
 
+## 💰 Estimated Daily Profit (24/7)
+
+* 1 Spawner      → $90,000/day
+* 10 Spawners    → $900,000/day
+* 100 Spawners   → $9,000,000/day
+* 1,000 Spawners → $90,000,000/day
+
+---
+
 ## 🚀 Running
 
 Start the bot:
@@ -252,4 +261,4 @@ node index.js
 
 This project is provided for educational purposes only.
 
-Use responsibly and ensure you follow all DonutSMP rules and policies.
+Use responsibly.
